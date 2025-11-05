@@ -1,0 +1,125 @@
+03,001.001 janamejaya uvāca
+03,001.001a evaṃ dyūtajitāḥ pārthāḥ kopitāś ca durātmabhiḥ
+03,001.001c dhārtarāṣṭraiḥ sahāmātyair nikṛtyā dvijasattama
+03,001.002a śrāvitāḥ paruṣā vācaḥ sṛjadbhir vairam uttamam
+03,001.002c kim akurvanta kauravyā mama pūrvapitāmahāḥ
+03,001.003a kathaṃ caiśvaryavibhraṣṭāḥ sahasā duḥkham eyuṣaḥ
+03,001.003c vane vijahrire pārthāḥ śakrapratimatejasaḥ
+03,001.004a ke cainān anvavartanta prāptān vyasanam uttamam
+03,001.004c kimāhārāḥ kimācārāḥ kva ca vāso mahātmanām
+
+
+
+03,001.005a kathaṃ dvādaśa varṣāṇi vane teṣāṃ mahātmanām
+03,001.005c vyatīyur brāhmaṇaśreṣṭha śūrāṇām arighātinām
+03,001.006a kathaṃ ca rājaputrī sā pravarā sarvayoṣitām
+03,001.006c pativratā mahābhāgā satataṃ satyavādinī
+03,001.006e vanavāsam aduḥkhārhā dāruṇaṃ pratyapadyata
+03,001.007a etad ācakṣva me sarvaṃ vistareṇa tapodhana
+03,001.007c śrotum icchāmi caritaṃ bhūridraviṇatejasām
+03,001.007e kathyamānaṃ tvayā vipra paraṃ kautūhalaṃ hi me
+
+03,001.008 vaiśaṃpāyana uvāca
+03,001.008a evaṃ dyūtajitāḥ pārthāḥ kopitāś ca durātmabhiḥ
+03,001.008c dhārtarāṣṭraiḥ sahāmātyair niryayur gajasāhvayāt
+03,001.009a vardhamānapuradvāreṇābhiniṣkramya te tadā
+03,001.009c udaṅmukhāḥ śastrabhṛtaḥ prayayuḥ saha kṛṣṇayā
+03,001.010a indrasenādayaś cainān bhṛtyāḥ paricaturdaśa
+03,001.010c rathair anuyayuḥ śīghraiḥ striya ādāya sarvaśaḥ
+03,001.010d*0004_01 tatas te puruṣavyāghrā rathān āsthāya bhārata
+
+
+03,001.010d*0004_02 dadṛśur jāhnavītīre pramāṇākhyaṃ mahāvaṭam
+03,001.011a vrajatas tān viditvā tu paurāḥ śokābhipīḍitāḥ
+03,001.011c garhayanto 'sakṛd bhīṣmaviduradroṇagautamān
+03,001.011e ūcur vigatasaṃtrāsāḥ samāgamya parasparam
+03,001.012a nedam asti kulaṃ sarvaṃ na vayaṃ na ca no gṛhāḥ
+03,001.012c yatra duryodhanaḥ pāpaḥ saubaleyena pālitaḥ
+03,001.012e karṇaduḥśāsanābhyāṃ ca rājyam etac cikīrṣati
+
+
+03,001.013a no cet kulaṃ na cācāro na dharmo 'rthaḥ kutaḥ sukham
+03,001.013c yatra pāpasahāyo 'yaṃ pāpo rājyaṃ bubhūṣate
+03,001.014a duryodhano gurudveṣī tyaktācārasuhṛjjanaḥ
+03,001.014c arthalubdho 'bhimānī ca nīcaḥ prakṛtinirghṛṇaḥ
+03,001.015a neyam asti mahī kṛtsnā yatra duryodhano nṛpaḥ
+03,001.015c sādhu gacchāmahe sarve yatra gacchanti pāṇḍavāḥ
+03,001.016a sānukrośā mahātmāno vijitendriyaśatravaḥ
+03,001.016c hrīmantaḥ kīrtimantaś ca dharmācāraparāyaṇāḥ
+
+
+03,001.017a evam uktvānujagmus tān pāṇḍavāṃs te sametya ca
+03,001.017c ūcuḥ prāñjalayaḥ sarve tān kuntīmādrinandanān
+03,001.018a kva gamiṣyatha bhadraṃ vas tyaktvāsmān duḥkhabhāginaḥ
+03,001.018c vayam apy anuyāsyāmo yatra yūyaṃ gamiṣyatha
+03,001.019a adharmeṇa jitāñ śrutvā yuṣmāṃs tyaktaghṛṇaiḥ paraiḥ
+03,001.019c udvignāḥ sma bhṛśaṃ sarve nāsmān hātum ihārhatha
+03,001.020a bhaktānuraktāḥ suhṛdaḥ sadā priyahite ratān
+03,001.020c kurājādhiṣṭhite rājye na vinaśyema sarvaśaḥ
+
+
+03,001.021a śrūyatāṃ cābhidhāsyāmo guṇadoṣān nararṣabhāḥ
+03,001.021c śubhāśubhādhivāsena saṃsargaṃ kurute yathā
+03,001.022a vastram āpas tilān bhūmiṃ gandho vāsayate yathā
+03,001.022c puṣpāṇām adhivāsena tathā saṃsargajā guṇāḥ
+03,001.023a mohajālasya yonir hi mūḍhair eva samāgamaḥ
+03,001.023c ahany ahani dharmasya yoniḥ sādhusamāgamaḥ
+
+
+03,001.024a tasmāt prājñaiś ca vṛddhaiś ca susvabhāvais tapasvibhiḥ
+03,001.024c sadbhiś ca saha saṃsargaḥ kāryaḥ śamaparāyaṇaiḥ
+03,001.025a yeṣāṃ trīṇy avadātāni yonir vidyā ca karma ca
+03,001.025c tān sevet taiḥ samāsyā hi śāstrebhyo 'pi garīyasī
+03,001.026a nirārambhā hy api vayaṃ puṇyaśīleṣu sādhuṣu
+03,001.026c puṇyam evāpnuyāmeha pāpaṃ pāpopasevanāt
+03,001.027a asatāṃ darśanāt sparśāt saṃjalpanasahāsanāt
+03,001.027c dharmācārāḥ prahīyante na ca sidhyanti mānavāḥ
+
+
+03,001.028a buddhiś ca hīyate puṃsāṃ nīcaiḥ saha samāgamāt
+03,001.028c madhyamair madhyatāṃ yāti śreṣṭhatāṃ yāti cottamaiḥ
+03,001.028d*0005_01 anīcair nāpy aviṣayair nādharmiṣṭhair viśeṣataḥ
+03,001.029a ye guṇāḥ kīrtitā loke dharmakāmārthasaṃbhavāḥ
+03,001.029c lokācārātmasaṃbhūtā vedoktāḥ śiṣṭasaṃmatāḥ
+03,001.030a te yuṣmāsu samastāś ca vyastāś caiveha sadguṇāḥ
+03,001.030c icchāmo guṇavan madhye vastuṃ śreyo 'bhikāṅkṣiṇaḥ
+
+
+03,001.031 yudhiṣṭhira uvāca
+03,001.031a dhanyā vayaṃ yad asmākaṃ snehakāruṇyayantritāḥ
+03,001.031c asato 'pi guṇān āhur brāhmaṇapramukhāḥ prajāḥ
+03,001.032a tad ahaṃ bhrātṛsahitaḥ sarvān vijñāpayāmi vaḥ
+03,001.032c nānyathā tad dhi kartavyam asmatsnehānukampayā
+03,001.033a bhīṣmaḥ pitāmaho rājā viduro jananī ca me
+03,001.033c suhṛjjanaś ca prāyo me nagare nāgasāhvaye
+03,001.034a te tv asmaddhitakāmārthaṃ pālanīyāḥ prayatnataḥ
+
+
+03,001.034c yuṣmābhiḥ sahitaiḥ sarvaiḥ śokasaṃtāpavihvalāḥ
+03,001.035a nivartatāgatā dūraṃ samāgamanaśāpitāḥ
+03,001.035c svajane nyāsabhūte me kāryā snehānvitā matiḥ
+03,001.036a etad dhi mama kāryāṇāṃ paramaṃ hṛdi saṃsthitam
+03,001.036c sukṛtānena me tuṣṭiḥ satkāraś ca bhaviṣyati
+03,001.037 vaiśaṃpāyana uvāca
+03,001.037a tathānumantritās tena dharmarājena tāḥ prajāḥ
+03,001.037c cakrur ārtasvaraṃ ghoraṃ hā rājann iti duḥkhitāḥ
+
+
+03,001.038a guṇān pārthasya saṃsmṛtya duḥkhārtāḥ paramāturāḥ
+03,001.038c akāmāḥ saṃnyavartanta samāgamyātha pāṇḍavān
+03,001.039a nivṛtteṣu tu paureṣu rathān āsthāya pāṇḍavāḥ
+03,001.039c prajagmur jāhnavītīre pramāṇākhyaṃ mahāvaṭam
+03,001.040a taṃ te divasaśeṣeṇa vaṭaṃ gatvā tu pāṇḍavāḥ
+03,001.040c ūṣus tāṃ rajanīṃ vīrāḥ saṃspṛśya salilaṃ śuci
+03,001.040e udakenaiva tāṃ rātrim ūṣus te duḥkhakarśitāḥ
+03,001.041a anujagmuś ca tatraitān snehāt ke cid dvijātayaḥ
+
+
+03,001.041c sāgnayo 'nagnayaś caiva saśiṣyagaṇabāndhavāḥ
+03,001.041e sa taiḥ parivṛto rājā śuśubhe brahmavādibhiḥ
+03,001.042a teṣāṃ prāduṣkṛtāgnīnāṃ muhūrte ramyadāruṇe
+03,001.042c brahmaghoṣapuraskāraḥ saṃjalpaḥ samajāyata
+03,001.043a rājānaṃ tu kuruśreṣṭhaṃ te haṃsamadhurasvarāḥ
+03,001.043c āśvāsayanto viprāgryāḥ kṣapāṃ sarvāṃ vyanodayan
+03,001.043d*0006_01 rājā tu bhrātṛbhiḥ sārdhaṃ tathā sarvaiḥ suhṛdgaṇaiḥ
+03,001.043d*0006_02 aśeta tāṃ niśāṃ rājā duḥkhaśokasamāhataḥ

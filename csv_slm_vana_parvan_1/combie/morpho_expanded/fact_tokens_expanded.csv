@@ -1,0 +1,679 @@
+id,L,S,M_surface,M_tags,morph_expand
+1,janamejaya,janamejayaḥ,janamejaya,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+2,vac,uvāca,vac,SPs3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Past
+3,evam,evam,evam,,Note: Probably indeclinable
+4,dyūta,dyūta,dyūta,Cp,Compound
+5,ji,jitāḥ,ji,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+6,pārtha,pārthāḥ,pārtha,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+7,kopay,kopitāḥ,kopay,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+8,ca,ca,ca,,Note: Probably indeclinable
+9,durātman,durātmabhiḥ,durātman,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+10,dhārtarāṣṭra,dhārtarāṣṭraiḥ,dhārtarāṣṭra,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+11,saha,saha,saha,,Note: Probably indeclinable
+12,amātya,amātyaiḥ,amātya,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+13,nikṛti,nikṛtyā,nikṛti,SIF,Case = Instrumental; Gender = Feminine; Number = Singular
+14,dvijasattama,dvijasattama,dvijasattama,SVM,Case = Vocative; Gender = Masculine; Number = Singular
+15,śrāvay,śrāvitāḥ,śrāvay,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+16,paruṣa,paruṣāḥ,paruṣa,PAF,Case = Accusative; Gender = Feminine; Number = Plural
+17,vāc,vācaḥ,vāc,PAF,Case = Accusative; Gender = Feminine; Number = Plural
+18,sṛj,sṛjadbhiḥ,sṛj,PIPaPrM,Case = Instrumental; Gender = Masculine; Number = Plural; Tense = Present; VerbForm = Part
+19,vaira,vairam,vaira,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+20,uttama,uttamam,uttama,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+21,ka,kim,ka,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+22,kṛ,akurvanta,kṛ,P3ImIn,Mood = Imperative; Mood = Indicative; Number = Plural; Person = 3
+23,kauravya,kauravyāḥ,kauravya,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+24,mad,mama,mad,SG,Case = Genitive; Number = Singular
+25,pūrva,pūrva,pūrva,Cp,Compound
+26,pitāmaha,pitāmahāḥ,pitāmaha,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+27,katham,katham,katham,,Note: Probably indeclinable
+28,ca,ca,ca,,Note: Probably indeclinable
+29,aiśvarya,aiśvarya,aiśvarya,Cp,Compound
+30,vibhraṃś,vibhraṣṭāḥ,vibhraṃś,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+31,sahas,sahasā,sahas,SINe,Case = Instrumental; Gender = Neuter; Number = Singular
+32,duḥkha,duḥkham,duḥkha,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+33,i,eyuṣaḥ,i,PAPaPsM,Case = Accusative; Gender = Masculine; Number = Plural; Tense = Past; VerbForm = Part
+34,vana,vane,vana,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+35,vihṛ,vijahrire,vihṛ,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+36,pārtha,pārthāḥ,pārtha,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+37,śakra,śakra,śakra,Cp,Compound
+38,pratima,pratima,pratima,Cp,Compound
+39,tejas,tejasaḥ,tejas,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+40,ka,ke,ka,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+41,ca,ca,ca,,Note: Probably indeclinable
+42,enad,enān,enad,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+43,anuvṛt,anvavartanta,anuvṛt,P3ImIn,Mood = Imperative; Mood = Indicative; Number = Plural; Person = 3
+44,prāp,prāptān,prāp,PAPaM,Case = Accusative; Gender = Masculine; Number = Plural; VerbForm = Part
+45,vyasana,vyasanam,vyasana,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+46,uttama,uttamam,uttama,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+47,kimāhāra,kimāhārāḥ,kimāhāra,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+48,kimācāra,kimācārāḥ,kimācāra,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+49,kva,kva,kva,,Note: Probably indeclinable
+50,ca,ca,ca,,Note: Probably indeclinable
+51,vāsa,vāsaḥ,vāsa,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+52,mahātman,mahātmanām,mahātman,PGM,Case = Genitive; Gender = Masculine; Number = Plural
+53,katham,katham,katham,,Note: Probably indeclinable
+54,dvādaśan,dvādaśa,dvādaśan,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+55,varṣa,varṣāṇi,varṣa,PNNe,Case = Nominative; Gender = Neuter; Number = Plural
+56,vana,vane,vana,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+57,tad,teṣām,tad,PGM,Case = Genitive; Gender = Masculine; Number = Plural
+58,mahātman,mahātmanām,mahātman,PGM,Case = Genitive; Gender = Masculine; Number = Plural
+59,vyatī,vyatīyuḥ,vyatī,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+60,brāhmaṇa,brāhmaṇa,brāhmaṇa,Cp,Compound
+61,śreṣṭha,śreṣṭha,śreṣṭha,SVM,Case = Vocative; Gender = Masculine; Number = Singular
+62,śūra,śūrāṇām,śūra,PGM,Case = Genitive; Gender = Masculine; Number = Plural
+63,ari,ari,ari,Cp,Compound
+64,ghātin,ghātinām,ghātin,PGM,Case = Genitive; Gender = Masculine; Number = Plural
+65,katham,katham,katham,,Note: Probably indeclinable
+66,ca,ca,ca,,Note: Probably indeclinable
+67,rājan,rāja,rājan,Cp,Compound
+68,putrī,putrī,putrī,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+69,tad,sā,tad,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+70,pravara,pravarā,pravara,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+71,sarva,sarva,sarva,Cp,Compound
+72,yoṣit,yoṣitām,yoṣit,PGF,Case = Genitive; Gender = Feminine; Number = Plural
+73,pativratā,pativratā,pativratā,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+74,mahābhāga,mahābhāgā,mahābhāga,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+75,satatam,satatam,satatam,,Note: Probably indeclinable
+76,satya,satya,satya,Cp,Compound
+77,vādin,vādinī,vādin,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+78,vana,vana,vana,Cp,Compound
+79,vāsa,vāsam,vāsa,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+80,aduḥkha,aduḥkha,aduḥkha,Cp,Compound
+81,arha,arhā,arha,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+82,dāruṇa,dāruṇam,dāruṇa,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+83,pratipad,pratyapadyata,pratipad,S3ImIn,Mood = Imperative; Mood = Indicative; Number = Singular; Person = 3
+84,etad,etat,etad,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+85,ācakṣ,ācakṣva,ācakṣ,S2ImIn,Mood = Imperative; Mood = Indicative; Number = Singular; Person = 2
+86,mad,me,mad,SG,Case = Genitive; Number = Singular
+87,sarva,sarvam,sarva,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+88,vistara,vistareṇa,vistara,SIM,Case = Instrumental; Gender = Masculine; Number = Singular
+89,tapodhana,tapodhana,tapodhana,SVM,Case = Vocative; Gender = Masculine; Number = Singular
+90,śru,śrotum,śru,In,Mood = Indicative
+91,iṣ,icchāmi,iṣ,SPr1In,Mood = Indicative; Number = Singular; Person = 1; Tense = Present
+92,carita,caritam,carita,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+93,bhūri,bhūri,bhūri,Cp,Compound
+94,draviṇa,draviṇa,draviṇa,Cp,Compound
+95,tejas,tejasām,tejas,PGM,Case = Genitive; Gender = Masculine; Number = Plural
+96,kathay,kathyamānam,kathay,SAPaPrNePv,Case = Accusative; Gender = Neuter; Number = Singular; Tense = Present; VerbForm = Part; Voice = Passive
+97,tvad,tvayā,tvad,SI,Case = Instrumental; Number = Singular
+98,vipra,vipra,vipra,SVM,Case = Vocative; Gender = Masculine; Number = Singular
+99,para,param,para,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+100,kautūhala,kautūhalam,kautūhala,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+101,hi,hi,hi,,Note: Probably indeclinable
+102,mad,me,mad,SG,Case = Genitive; Number = Singular
+103,vaiśampāyana,vaiśaṃpāyanaḥ,vaiśampāyana,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+104,vac,uvāca,vac,SPs3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Past
+105,evam,evam,evam,,Note: Probably indeclinable
+106,dyūta,dyūta,dyūta,Cp,Compound
+107,ji,jitāḥ,ji,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+108,pārtha,pārthāḥ,pārtha,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+109,kopay,kopitāḥ,kopay,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+110,ca,ca,ca,,Note: Probably indeclinable
+111,durātman,durātmabhiḥ,durātman,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+112,dhārtarāṣṭra,dhārtarāṣṭraiḥ,dhārtarāṣṭra,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+113,saha,saha,saha,,Note: Probably indeclinable
+114,amātya,amātyaiḥ,amātya,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+115,niryā,niryayuḥ,niryā,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+116,gajasāhvaya,gajasāhvayāt,gajasāhvaya,SBNe,Case = Ablative; Gender = Neuter; Number = Singular
+117,vardhamāna,vardhamāna,vardhamāna,Cp,Compound
+118,pura,pura,pura,Cp,Compound
+119,dvāra,dvāreṇa,dvāra,SINe,Case = Instrumental; Gender = Neuter; Number = Singular
+120,abhiniṣkram,abhiniṣkramya,abhiniṣkram,Co,Conjunction
+121,tad,te,tad,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+122,tadā,tadā,tadā,,Note: Probably indeclinable
+123,udañc,udak,udañc,Cp,Compound
+124,mukha,mukhāḥ,mukha,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+125,śastrabhṛt,śastrabhṛtaḥ,śastrabhṛt,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+126,prayā,prayayuḥ,prayā,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+127,saha,saha,saha,,Note: Probably indeclinable
+128,kṛṣṇā,kṛṣṇayā,kṛṣṇā,SIF,Case = Instrumental; Gender = Feminine; Number = Singular
+129,indrasena,indrasena,indrasena,Cp,Compound
+130,ādi,ādayaḥ,ādi,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+131,ca,ca,ca,,Note: Probably indeclinable
+132,enad,enān,enad,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+133,bhṛtya,bhṛtyāḥ,bhṛtya,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+134,pari,pari,pari,,Note: Probably indeclinable
+135,caturdaśan,caturdaśa,caturdaśan,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+136,ratha,rathaiḥ,ratha,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+137,anuyā,anuyayuḥ,anuyā,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+138,śīghra,śīghraiḥ,śīghra,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+139,strī,striyaḥ,strī,PAF,Case = Accusative; Gender = Feminine; Number = Plural
+140,ādā,ādāya,ādā,Co,Conjunction
+141,sarvaśas,sarvaśas,sarvaśas,,Note: Probably indeclinable
+142,tatas,tatas,tatas,,Note: Probably indeclinable
+143,tad,te,tad,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+144,puruṣa,puruṣa,puruṣa,Cp,Compound
+145,vyāghra,vyāghrāḥ,vyāghra,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+146,ratha,rathān,ratha,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+147,āsthā,āsthāya,āsthā,Co,Conjunction
+148,bhārata,bhārataiḥ,bhārata,SVM,Case = Vocative; Gender = Masculine; Number = Singular
+149,dṛś,dadṛśuḥ,dṛś,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+150,jāhnavī,jāhnavī,jāhnavī,Cp,Compound
+151,tīra,tīre,tīra,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+152,pramāṇa,pramāṇa,pramāṇa,Cp,Compound
+153,ākhyā,ākhyam,ākhyā,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+154,mahat,mahā,mahat,Cp,Compound
+155,vaṭa,vaṭam,vaṭa,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+156,vraj,vrajataḥ,vraj,PAPaPrM,Case = Accusative; Gender = Masculine; Number = Plural; Tense = Present; VerbForm = Part
+157,tad,tān,tad,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+158,vid,viditvā,vid,Co,Conjunction
+159,tu,tu,tu,,Note: Probably indeclinable
+160,paura,paurāḥ,paura,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+161,śoka,śoka,śoka,Cp,Compound
+162,abhipīḍay,abhipīḍitāḥ,abhipīḍay,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+163,garhay,garhayantaḥ,garhay,PNPaPrM,Case = Nominative; Gender = Masculine; Number = Plural; Tense = Present; VerbForm = Part
+164,asakṛt,asakṛt,asakṛt,,Note: Probably indeclinable
+165,bhīṣma,bhīṣma,bhīṣma,Cp,Compound
+166,vidura,vidura,vidura,Cp,Compound
+167,droṇa,droṇa,droṇa,Cp,Compound
+168,gautama,gautamān,gautama,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+169,vac,ūcuḥ,vac,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+170,vigam,vigata,vigam,PaCp,Compound; VerbForm = Part
+171,saṃtrāsa,saṃtrāsāḥ,saṃtrāsa,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+172,samāgam,samāgamya,samāgam,Co,Conjunction
+173,paraspara,parasparam,paraspara,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+174,na,na,na,,Note: Probably indeclinable
+175,idam,idam,idam,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+176,as,asti,as,SPr3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Present
+177,kula,kulam,kula,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+178,sarva,sarvam,sarva,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+179,na,na,na,,Note: Probably indeclinable
+180,mad,vayam,mad,PN,Case = Nominative; Number = Plural
+181,na,na,na,,Note: Probably indeclinable
+182,ca,ca,ca,,Note: Probably indeclinable
+183,mad,naḥ,no,,Note: Probably indeclinable
+184,gṛha,gṛhāḥ,gṛha,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+185,yatra,yatra,yatra,,Note: Probably indeclinable
+186,duryodhana,duryodhanaḥ,duryodhana,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+187,pāpa,pāpaḥ,pāpa,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+188,saubaleya,saubaleyena,saubaleya,SIM,Case = Instrumental; Gender = Masculine; Number = Singular
+189,pālay,pālitaḥ,pālay,SNPaM,Case = Nominative; Gender = Masculine; Number = Singular; VerbForm = Part
+190,karṇa,karṇa,karṇa,Cp,Compound
+191,duḥśāsana,duḥśāsanābhyām,duḥśāsana,DuIM,Case = Instrumental; Gender = Masculine; Number = Dual
+192,ca,ca,ca,,Note: Probably indeclinable
+193,rājya,rājyam,rājya,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+194,etad,etat,etad,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+195,cikīrṣ,cikīrṣati,cikīrṣ,SPr3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Present
+196,no,no,no,,Note: Probably indeclinable
+197,ced,ced,ced,,Note: Probably indeclinable
+198,kula,kulam,kula,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+199,na,na,na,,Note: Probably indeclinable
+200,ca,ca,ca,,Note: Probably indeclinable
+201,ācāra,ācāraḥ,ācāra,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+202,na,na,na,,Note: Probably indeclinable
+203,dharma,dharmaḥ,dharma,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+204,artha,arthaḥ,artha,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+205,kutas,kutas,kutas,,Note: Probably indeclinable
+206,sukha,sukham,sukha,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+207,yatra,yatra,yatra,,Note: Probably indeclinable
+208,pāpa,pāpa,pāpa,Cp,Compound
+209,sahāya,sahāyaḥ,sahāya,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+210,idam,ayam,idam,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+211,pāpa,pāpaḥ,pāpa,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+212,rājya,rājyam,rājya,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+213,bubhūṣ,bubhūṣate,bubhūṣ,SPr3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Present
+214,duryodhana,duryodhanaḥ,duryodhana,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+215,guru,guru,guru,Cp,Compound
+216,dveṣin,dveṣī,dveṣin,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+217,tyaj,tyakta,tyaj,PaCp,Compound; VerbForm = Part
+218,ācāra,ācāra,ācāra,Cp,Compound
+219,suhṛd,suhṛd,suhṛd,Cp,Compound
+220,jana,janaḥ,jana,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+221,artha,artha,artha,Cp,Compound
+222,lubh,lubdhaḥ,lubh,SNPaM,Case = Nominative; Gender = Masculine; Number = Singular; VerbForm = Part
+223,abhimānin,abhimānī,abhimānin,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+224,ca,ca,ca,,Note: Probably indeclinable
+225,nīca,nīcaḥ,nīca,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+226,prakṛti,prakṛti,prakṛti,Cp,Compound
+227,nirghṛṇa,nirghṛṇaḥ,nirghṛṇa,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+228,na,na,na,,Note: Probably indeclinable
+229,idam,iyam,idam,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+230,as,asti,as,SPr3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Present
+231,mahī,mahī,mahī,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+232,kṛtsna,kṛtsnā,kṛtsna,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+233,yatra,yatra,yatra,,Note: Probably indeclinable
+234,duryodhana,duryodhanaḥ,duryodhana,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+235,nṛpa,nṛpaḥ,nṛpa,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+236,sādhu,sādhu,sādhu,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+237,gam,gacchāmahe,gam,PPr1In,Mood = Indicative; Number = Plural; Person = 1; Tense = Present
+238,sarva,sarve,sarva,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+239,yatra,yatra,yatra,,Note: Probably indeclinable
+240,gam,gacchanti,gam,PPr3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Present
+241,pāṇḍava,pāṇḍavāḥ,pāṇḍava,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+242,sa,sa,sa,,Note: Probably indeclinable
+243,anukrośa,anukrośāḥ,anukrośa,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+244,mahātman,mahātmānaḥ,mahātman,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+245,viji,vijita,viji,PaCp,Compound; VerbForm = Part
+246,indriya,indriya,indriya,Cp,Compound
+247,śatru,śatravaḥ,śatru,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+248,hrīmat,hrīmantaḥ,hrīmat,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+249,kīrtimat,kīrtimantaḥ,kīrtimat,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+250,ca,ca,ca,,Note: Probably indeclinable
+251,dharma,dharma,dharma,Cp,Compound
+252,ācāra,ācāra,ācāra,Cp,Compound
+253,parāyaṇa,parāyaṇāḥ,parāyaṇa,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+254,evam,evam,evam,,Note: Probably indeclinable
+255,vac,uktvā,vac,Co,Conjunction
+256,anugam,anujagmuḥ,anugam,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+257,tad,tān,tad,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+258,pāṇḍava,pāṇḍavān,pāṇḍava,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+259,tad,te,tad,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+260,same,sametya,same,Co,Conjunction
+261,ca,ca,ca,,Note: Probably indeclinable
+262,vac,ūcuḥ,ūc,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+263,prāñjali,prāñjalayaḥ,prāñjali,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+264,sarva,sarve,sarva,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+265,tad,tān,tad,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+266,kuntī,kuntīm,kuntī,Cp,Compound
+267,mādrinandana,ādrinandanān,mādrinandana,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+268,kva,kva,kva,,Note: Probably indeclinable
+269,gam,gamiṣyatha,gam,PFu2In,Mood = Indicative; Number = Plural; Person = 2; Tense = Future
+270,bhadra,bhadram,bhadra,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+271,tvad,vaḥ,tvad,PG,Case = Genitive; Number = Plural
+272,tyaj,tyaktvā,tyaj,Co,Conjunction
+273,mad,asmān,mad,PA,Case = Accusative; Number = Plural
+274,duḥkha,duḥkha,duḥkha,Cp,Compound
+275,bhāgin,bhāginaḥ,bhāgin,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+276,mad,vayam,vayad,PN,Case = Nominative; Number = Plural
+277,api,api,api,,Note: Probably indeclinable
+278,anuyā,anuyāsyāmaḥ,anuyā,PFu1In,Mood = Indicative; Number = Plural; Person = 1; Tense = Future
+279,yatra,yatra,yatra,,Note: Probably indeclinable
+280,tvad,yūyam,tvad,PN,Case = Nominative; Number = Plural
+281,gam,gamiṣyatha,gam,PFu2In,Mood = Indicative; Number = Plural; Person = 2; Tense = Future
+282,adharma,adharmeṇa,adharma,SIM,Case = Instrumental; Gender = Masculine; Number = Singular
+283,ji,jitān,ji,PAPaM,Case = Accusative; Gender = Masculine; Number = Plural; VerbForm = Part
+284,śru,śrutvā,śru,Co,Conjunction
+285,tvad,yuṣmān,tvad,PA,Case = Accusative; Number = Plural
+286,tyaj,tyakta,tyaj,PaCp,Compound; VerbForm = Part
+287,ghṛṇā,ghṛṇaiḥ,ghṛṇā,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+288,para,paraiḥ,para,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+289,udvij,udvignāḥ,udvij,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+290,sma,sma,sma,,Note: Probably indeclinable
+291,bhṛśam,bhṛśam,bhṛśam,,Note: Probably indeclinable
+292,sarva,sarve,sarva,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+293,na,na,na,,Note: Probably indeclinable
+294,mad,asmān,mad,PA,Case = Accusative; Number = Plural
+295,hā,hātum,hā,In,Mood = Indicative
+296,iha,iha,iha,,Note: Probably indeclinable
+297,arh,arhatha,arh,PPr2In,Mood = Indicative; Number = Plural; Person = 2; Tense = Present
+298,bhakta,bhakta,bhakta,Cp,Compound
+299,anurañj,anuraktāḥ,anurañj,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+300,suhṛd,suhṛdaḥ,suhṛd,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+301,sadā,sadā,sadā,,Note: Probably indeclinable
+302,priya,priya,priya,Cp,Compound
+303,hita,hite,hita,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+304,ram,ratān,ram,PAPaM,Case = Accusative; Gender = Masculine; Number = Plural; VerbForm = Part
+305,ku,ku,ku,,Note: Probably indeclinable
+306,rājan,rāja,rājan,Cp,Compound
+307,adhiṣṭhā,adhiṣṭhite,adhiṣṭhā,SLPaNe,Case = Locative; Gender = Neuter; Number = Singular; VerbForm = Part
+308,rājya,rājye,rājya,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+309,na,na,na,,Note: Probably indeclinable
+310,vinaś,vinaśyema,vinaś,PPr1O,Mood = Optative; Number = Plural; Person = 1; Tense = Present
+311,sarvaśas,sarvaśas,sarvaśas,,Note: Probably indeclinable
+312,śru,śrūyatām,śru,SPr3ImPv,Mood = Imperative; Number = Singular; Person = 3; Tense = Present; Voice = Passive
+313,ca,ca,ca,,Note: Probably indeclinable
+314,abhidhā,abhidhāsyāmaḥ,abhidhā,PFu1In,Mood = Indicative; Number = Plural; Person = 1; Tense = Future
+315,guṇa,guṇa,guṇa,Cp,Compound
+316,doṣa,doṣān,doṣa,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+317,nara,nara,nara,Cp,Compound
+318,ṛṣabha,ṛṣabhāḥ,ṛṣabha,PVM,Case = Vocative; Gender = Masculine; Number = Plural
+319,śubha,śubha,śubha,Cp,Compound
+320,aśubha,aśubha,aśubha,Cp,Compound
+321,adhivāsa,adhivāsena,adhivāsa,SIM,Case = Instrumental; Gender = Masculine; Number = Singular
+322,saṃsarga,saṃsargam,saṃsarga,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+323,kṛ,kurute,kṛ,SPr3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Present
+324,yathā,yathā,yathā,,Note: Probably indeclinable
+325,vastra,vastram,vastra,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+326,ap,āpaḥ,ap,PAF,Case = Accusative; Gender = Feminine; Number = Plural
+327,tila,tilān,tila,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+328,bhūmi,bhūmim,bhūmi,SAF,Case = Accusative; Gender = Feminine; Number = Singular
+329,gandha,gandhaḥ,gandha,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+330,vāsay,vāsayate,vāsay,SPr3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Present
+331,yathā,yathā,yathā,,Note: Probably indeclinable
+332,puṣpa,puṣpāṇām,puṣpa,PGNe,Case = Genitive; Gender = Neuter; Number = Plural
+333,adhivāsa,adhivāsena,adhivāsa,SIM,Case = Instrumental; Gender = Masculine; Number = Singular
+334,tathā,tathā,tathā,,Note: Probably indeclinable
+335,saṃsarga,saṃsarga,saṃsarga,Cp,Compound
+336,ja,jāḥ,ja,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+337,guṇa,guṇāḥ,guṇa,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+338,moha,moha,moha,Cp,Compound
+339,jāla,jālasya,jāla,SGNe,Case = Genitive; Gender = Neuter; Number = Singular
+340,yoni,yoniḥ,yoni,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+341,hi,hi,hi,,Note: Probably indeclinable
+342,muh,mūḍhaiḥ,muh,PIPaM,Case = Instrumental; Gender = Masculine; Number = Plural; VerbForm = Part
+343,eva,eva,eva,,Note: Probably indeclinable
+344,samāgama,samāgamaḥ,samāgama,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+345,ahar,ahani,ahar,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+346,ahar,ahani,ahar,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+347,dharma,dharmasya,dharma,SGM,Case = Genitive; Gender = Masculine; Number = Singular
+348,yoni,yoniḥ,yoni,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+349,sādhu,sādhu,sādhu,Cp,Compound
+350,samāgama,samāgamaḥ,samāgama,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+351,tasmāt,tasmāt,tasmāt,,Note: Probably indeclinable
+352,prājña,prājñaiḥ,prājña,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+353,ca,ca,ca,,Note: Probably indeclinable
+354,vṛddha,vṛddhaiḥ,vṛddha,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+355,ca,ca,ca,,Note: Probably indeclinable
+356,su,su,su,,Note: Probably indeclinable
+357,svabhāva,svabhāvaiḥ,svabhāva,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+358,tapasvin,tapasvibhiḥ,tapasvin,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+359,sat,sadbhiḥ,sat,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+360,ca,ca,ca,,Note: Probably indeclinable
+361,saha,saha,saha,,Note: Probably indeclinable
+362,saṃsarga,saṃsargaḥ,saṃsarga,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+363,kṛ,kāryaḥ,kṛ,SNMGd,Case = Nominative; Gender = Masculine; Number = Singular; VerbForm = Gerundive
+364,śama,śama,śama,Cp,Compound
+365,parāyaṇa,parāyaṇaiḥ,parāyaṇa,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+366,yad,yeṣām,yad,PGM,Case = Genitive; Gender = Masculine; Number = Plural
+367,tri,trīṇi,tri,PNNe,Case = Nominative; Gender = Neuter; Number = Plural
+368,avadāta,avadātāni,avadāta,PNNe,Case = Nominative; Gender = Neuter; Number = Plural
+369,yoni,yoniḥ,yoni,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+370,vidyā,vidyā,vidyā,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+371,ca,ca,ca,,Note: Probably indeclinable
+372,karman,karma,karman,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+373,ca,ca,ca,,Note: Probably indeclinable
+374,tad,tān,tad,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+375,sev,sevet,sev,SPr3O,Mood = Optative; Number = Singular; Person = 3; Tense = Present
+376,tad,taiḥ,tad,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+377,samās,samāsyā,samāsyā,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+378,hi,hi,hi,,Note: Probably indeclinable
+379,śāstra,śāstrebhyaḥ,śāstra,PBNe,Case = Ablative; Gender = Neuter; Number = Plural
+380,api,api,api,,Note: Probably indeclinable
+381,garīyas,garīyasī,garīyas,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+382,nirārambha,nirārambhāḥ,nirārambha,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+383,hi,hi,hi,,Note: Probably indeclinable
+384,api,api,api,,Note: Probably indeclinable
+385,mad,vayam,mad,PN,Case = Nominative; Number = Plural
+386,puṇya,puṇya,puṇya,Cp,Compound
+387,śīla,śīleṣu,śīla,PLM,Case = Locative; Gender = Masculine; Number = Plural
+388,sādhu,sādhuṣu,sādhu,PLM,Case = Locative; Gender = Masculine; Number = Plural
+389,puṇya,puṇyam,puṇya,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+390,eva,eva,eva,,Note: Probably indeclinable
+391,āp,āpnuyāma,āp,PPr1O,Mood = Optative; Number = Plural; Person = 1; Tense = Present
+392,iha,iha,iha,,Note: Probably indeclinable
+393,pāpa,pāpam,pāpa,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+394,pāpa,pāpa,pāpa,Cp,Compound
+395,upasevana,upasevanāt,upasevana,SBNe,Case = Ablative; Gender = Neuter; Number = Singular
+396,asat,asatām,asat,PGM,Case = Genitive; Gender = Masculine; Number = Plural
+397,darśana,darśanāt,darśana,SBNe,Case = Ablative; Gender = Neuter; Number = Singular
+398,sparśa,sparśāt,sparśa,SBM,Case = Ablative; Gender = Masculine; Number = Singular
+399,saṃjalpana,saṃjalpana,saṃjalpana,Cp,Compound
+400,sahāsana,sahāsanāt,sahāsana,SBNe,Case = Ablative; Gender = Neuter; Number = Singular
+401,dharma,dharma,dharma,Cp,Compound
+402,ācāra,ācārāḥ,ācāra,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+403,prahā,prahīyante,prahā,PPr3InPv,Mood = Indicative; Number = Plural; Person = 3; Tense = Present; Voice = Passive
+404,na,na,na,,Note: Probably indeclinable
+405,ca,ca,ca,,Note: Probably indeclinable
+406,sidh,sidhyanti,sidh,PPr3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Present
+407,mānava,mānavāḥ,mānava,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+408,buddhi,buddhiḥ,buddhi,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+409,ca,ca,ca,,Note: Probably indeclinable
+410,hā,hīyate,hā,SPr3InPv,Mood = Indicative; Number = Singular; Person = 3; Tense = Present; Voice = Passive
+411,puṃs,puṃsām,puṃs,PGM,Case = Genitive; Gender = Masculine; Number = Plural
+412,nīca,nīcaiḥ,nīca,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+413,saha,saha,saha,,Note: Probably indeclinable
+414,samāgama,samāgamāt,samāgama,SBM,Case = Ablative; Gender = Masculine; Number = Singular
+415,madhyama,madhyamaiḥ,madhyama,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+416,madhya,madhya,madhya,Cp,Compound
+417,tā,tām,tā,SAF,Case = Accusative; Gender = Feminine; Number = Singular
+418,yā,yāti,yā,SPr3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Present
+419,śreṣṭha,śreṣṭha,śreṣṭha,Cp,Compound
+420,tā,tām,tā,SAF,Case = Accusative; Gender = Feminine; Number = Singular
+421,yā,yāti,yā,SPr3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Present
+422,ca,ca,ca,,Note: Probably indeclinable
+423,uttama,uttamaiḥ,uttama,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+424,anīca,anīcaiḥ,anīca,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+425,na,na,na,,Note: Probably indeclinable
+426,api,api,api,,Note: Probably indeclinable
+427,aviṣaya,aviṣayaiḥ,aviṣaya,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+428,na,na,na,,Note: Probably indeclinable
+429,adharmiṣṭha,adharmiṣṭhaiḥ,adharmiṣṭha,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+430,viśeṣataḥ,viśeṣataḥ,viśeṣataḥ,,Note: Probably indeclinable
+431,yad,ye,yad,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+432,guṇa,guṇāḥ,guṇa,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+433,kīrtay,kīrtitāḥ,kīrtay,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+434,loka,loke,loka,SLM,Case = Locative; Gender = Masculine; Number = Singular
+435,dharma,dharma,dharma,Cp,Compound
+436,kāma,kāma,kāma,Cp,Compound
+437,artha,artha,artha,Cp,Compound
+438,sambhava,saṃbhavāḥ,sambhava,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+439,loka,loka,loka,Cp,Compound
+440,ācāra,ācāra,ācāra,Cp,Compound
+441,ātman,ātma,ātman,Cp,Compound
+442,sambhū,saṃbhūtāḥ,sambhū,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+443,veda,veda,veda,Cp,Compound
+444,vac,uktāḥ,ukta,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+445,śās,śiṣṭa,śās,PaCp,Compound; VerbForm = Part
+446,samman,saṃmatāḥ,samman,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+447,tad,te,tad,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+448,tvad,yuṣmāsu,yuṣmāka,PL,Case = Locative; Number = Plural
+449,samasta,samastāḥ,samasta,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+450,ca,ca,ca,,Note: Probably indeclinable
+451,vyasta,vyastāḥ,vyasta,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+452,ca,ca,ca,,Note: Probably indeclinable
+453,eva,eva,eva,,Note: Probably indeclinable
+454,iha,iha,iha,,Note: Probably indeclinable
+455,sat,sat,sat,Cp,Compound
+456,guṇa,guṇāḥ,guṇa,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+457,iṣ,icchāmaḥ,iṣ,PPr1In,Mood = Indicative; Number = Plural; Person = 1; Tense = Present
+458,guṇavat,guṇavat,guṇavat,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+459,madhya,madhye,madhya,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+460,vas,vastum,vas,In,Mood = Indicative
+461,śreyas,śreyaḥ,śreyas,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+462,abhikāṅkṣin,abhikāṅkṣiṇaḥ,abhikāṅkṣin,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+463,yudhiṣṭhira,yudhiṣṭhiraḥ,yudhiṣṭhira,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+464,vac,uvāca,vac,SPs3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Past
+465,dhanya,dhanyāḥ,dhanya,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+466,mad,vayam,mad,PN,Case = Nominative; Number = Plural
+467,yat,yat,yat,,Note: Probably indeclinable
+468,mad,asmākam,mad,PG,Case = Genitive; Number = Plural
+469,sneha,sneha,sneha,Cp,Compound
+470,kāruṇya,kāruṇya,kāruṇya,Cp,Compound
+471,yantray,yantritāḥ,yantray,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+472,asat,asataḥ,asat,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+473,api,api,api,,Note: Probably indeclinable
+474,guṇa,guṇān,guṇa,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+475,ah,āhuḥ,ah,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+476,brāhmaṇa,brāhmaṇa,brāhmaṇa,Cp,Compound
+477,pramukha,pramukhāḥ,pramukha,PNF,Case = Nominative; Gender = Feminine; Number = Plural
+478,prajā,prajāḥ,prajā,PNF,Case = Nominative; Gender = Feminine; Number = Plural
+479,tad,tat,tad,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+480,mad,aham,mad,SN,Case = Nominative; Number = Singular
+481,bhrātṛ,bhrātṛ,bhrātṛ,Cp,Compound
+482,sahita,sahitaḥ,sahita,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+483,sarva,sarvān,sarva,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+484,vijñāpay,vijñāpayāmi,vijñāpay,SPr1In,Mood = Indicative; Number = Singular; Person = 1; Tense = Present
+485,tvad,vaḥ,tvad,PA,Case = Accusative; Number = Plural
+486,na,na,na,,Note: Probably indeclinable
+487,anyathā,anyathā,anyathā,,Note: Probably indeclinable
+488,tad,tat,tad,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+489,hi,hi,hi,,Note: Probably indeclinable
+490,kṛ,kartavyam,kṛ,SNNeGd,Case = Nominative; Gender = Neuter; Number = Singular; VerbForm = Gerundive
+491,mad,asmad,mad,Cp,Compound
+492,sneha,sneha,sneha,Cp,Compound
+493,anukampā,anukampayā,anukampā,SIF,Case = Instrumental; Gender = Feminine; Number = Singular
+494,bhīṣma,bhīṣmaḥ,bhīṣma,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+495,pitāmaha,pitāmahaḥ,pitāmaha,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+496,rājan,rājā,rājan,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+497,vidura,viduraḥ,vidura,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+498,jananī,jananī,jananī,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+499,ca,ca,ca,,Note: Probably indeclinable
+500,mad,me,mad,SG,Case = Genitive; Number = Singular
+501,suhṛd,suhṛd,suhṛd,Cp,Compound
+502,jana,janaḥ,jana,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+503,ca,ca,ca,,Note: Probably indeclinable
+504,prāyas,prāyas,prāyas,,Note: Probably indeclinable
+505,mad,me,mad,SG,Case = Genitive; Number = Singular
+506,nagara,nagare,nagara,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+507,nāgasāhvaya,nāgasāhvaye,nāgasāhvaya,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+508,tad,te,tad,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+509,tu,tu,tu,,Note: Probably indeclinable
+510,mad,asmad,mad,Cp,Compound
+511,hita,hita,hita,Cp,Compound
+512,kāma,kāma,kāma,Cp,Compound
+513,artha,artham,artha,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+514,pālay,pālanīyāḥ,pālay,PNMGd,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Gerundive
+515,prayatna,prayatnataḥ,prayatna,SBM,Case = Ablative; Gender = Masculine; Number = Singular
+516,tvad,yuṣmābhiḥ,tvad,PI,Case = Instrumental; Number = Plural
+517,sahita,sahitaiḥ,sahita,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+518,sarva,sarvaiḥ,sarva,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+519,śoka,śoka,śoka,Cp,Compound
+520,saṃtāpa,saṃtāpa,saṃtāpa,Cp,Compound
+521,vihvala,vihvalāḥ,vihvala,PNF,Case = Nominative; Gender = Feminine; Number = Plural
+522,nivṛt,nivartata,nivṛt,PPr2Im,Mood = Imperative; Number = Plural; Person = 2; Tense = Present
+523,āgam,āgatāḥ,āgam,PNPaF,Case = Nominative; Gender = Feminine; Number = Plural; VerbForm = Part
+524,dūram,dūram,dūram,,Note: Probably indeclinable
+525,samāgamana,samāgamana,samāgamana,Cp,Compound
+526,śāpay,śāpitāḥ,śāpay,PNPaF,Case = Nominative; Gender = Feminine; Number = Plural; VerbForm = Part
+527,sva,sva,sva,Cp,Compound
+528,jana,jane,jana,SLM,Case = Locative; Gender = Masculine; Number = Singular
+529,nyāsa,nyāsa,nyāsa,Cp,Compound
+530,bhū,bhūte,bhū,SLPaM,Case = Locative; Gender = Masculine; Number = Singular; VerbForm = Part
+531,mad,me,mad,SG,Case = Genitive; Number = Singular
+532,kṛ,kāryā,kṛ,SNFGd,Case = Nominative; Gender = Feminine; Number = Singular; VerbForm = Gerundive
+533,sneha,sneha,sneha,Cp,Compound
+534,anvita,anvitā,anvita,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+535,mati,matiḥ,mati,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+536,etad,etat,etad,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+537,hi,hi,hi,,Note: Probably indeclinable
+538,mad,mama,mad,SG,Case = Genitive; Number = Singular
+539,kārya,kāryāṇām,kārya,PGNe,Case = Genitive; Gender = Neuter; Number = Plural
+540,parama,paramam,parama,SNNe,Case = Nominative; Gender = Neuter; Number = Singular
+541,hṛd,hṛdi,hṛd,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+542,saṃsthā,saṃsthitam,saṃsthā,SNPaNe,Case = Nominative; Gender = Neuter; Number = Singular; VerbForm = Part
+543,su,su,su,,Note: Probably indeclinable
+544,kṛ,kṛtā,kṛ,SNPaF,Case = Nominative; Gender = Feminine; Number = Singular; VerbForm = Part
+545,idam,anena,idam,SIM,Case = Instrumental; Gender = Masculine; Number = Singular
+546,mad,me,mad,SG,Case = Genitive; Number = Singular
+547,tuṣṭi,tuṣṭiḥ,tuṣṭi,SNF,Case = Nominative; Gender = Feminine; Number = Singular
+548,satkāra,satkāraḥ,satkāra,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+549,ca,ca,ca,,Note: Probably indeclinable
+550,bhū,bhaviṣyati,bhū,SFu3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Future
+551,vaiśampāyana,vaiśaṃpāyanaḥ,vaiśampāyana,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+552,vac,uvāca,vac,SPs3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Past
+553,tathā,tathā,tathā,,Note: Probably indeclinable
+554,anumantray,anumantritāḥ,anumantray,PNPaF,Case = Nominative; Gender = Feminine; Number = Plural; VerbForm = Part
+555,tad,tena,tad,SIM,Case = Instrumental; Gender = Masculine; Number = Singular
+556,dharmarāja,dharmarājena,dharmarāja,SIM,Case = Instrumental; Gender = Masculine; Number = Singular
+557,tad,tāḥ,tad,PNF,Case = Nominative; Gender = Feminine; Number = Plural
+558,prajā,prajāḥ,prajā,PNF,Case = Nominative; Gender = Feminine; Number = Plural
+559,kṛ,cakruḥ,kṛ,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+560,ārta,ārta,ārta,Cp,Compound
+561,svara,svaram,svara,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+562,ghora,ghoram,ghora,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+563,hā,hā,hā,,Note: Probably indeclinable
+564,rājan,rājan,rājan,SVM,Case = Vocative; Gender = Masculine; Number = Singular
+565,iti,iti,iti,,Note: Probably indeclinable
+566,duḥkhita,duḥkhitāḥ,duḥkhita,PNF,Case = Nominative; Gender = Feminine; Number = Plural
+567,guṇa,guṇān,guṇa,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+568,pārtha,pārthasya,pārtha,SGM,Case = Genitive; Gender = Masculine; Number = Singular
+569,saṃsmṛ,saṃsmṛtya,saṃsmṛ,Co,Conjunction
+570,duḥkha,duḥkha,duḥkha,Cp,Compound
+571,ārta,ārtāḥ,ārta,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+572,parama,parama,parama,Cp,Compound
+573,ātura,āturāḥ,ātura,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+574,akāma,akāmāḥ,akāma,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+575,saṃnivṛt,saṃnyavartanta,saṃnivṛt,P3ImIn,Mood = Imperative; Mood = Indicative; Number = Plural; Person = 3
+576,samāgam,samāgamya,samāgam,Co,Conjunction
+577,atha,atha,atha,,Note: Probably indeclinable
+578,pāṇḍava,pāṇḍavān,pāṇḍava,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+579,nivṛt,nivṛtteṣu,nivṛt,PLPaM,Case = Locative; Gender = Masculine; Number = Plural; VerbForm = Part
+580,tu,tu,tu,,Note: Probably indeclinable
+581,paura,paureṣu,paura,PLM,Case = Locative; Gender = Masculine; Number = Plural
+582,ratha,rathān,ratha,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+583,āsthā,āsthāya,āsthā,Co,Conjunction
+584,pāṇḍava,pāṇḍavāḥ,pāṇḍava,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+585,pragam,prajagmuḥ,pragam,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+586,jāhnavī,jāhnavī,jāhnavī,Cp,Compound
+587,tīra,tīre,tīra,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+588,pramāṇa,pramāṇa,pramāṇa,Cp,Compound
+589,ākhyā,ākhyam,ākhyā,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+590,mahat,mahā,mahat,Cp,Compound
+591,vaṭa,vaṭam,vaṭa,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+592,tad,tam,tad,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+593,tad,te,tad,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+594,divasa,divasa,divasa,Cp,Compound
+595,śeṣa,śeṣeṇa,śeṣa,SIM,Case = Instrumental; Gender = Masculine; Number = Singular
+596,vaṭa,vaṭam,vaṭa,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+597,gam,gatvā,gam,Co,Conjunction
+598,tu,tu,tu,,Note: Probably indeclinable
+599,pāṇḍava,pāṇḍavāḥ,pāṇḍava,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+600,vas,ūṣuḥ,vas,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+601,tad,tām,tad,SAF,Case = Accusative; Gender = Feminine; Number = Singular
+602,rajanī,rajanīm,rajanī,SAF,Case = Accusative; Gender = Feminine; Number = Singular
+603,vīra,vīrāḥ,vīra,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+604,saṃspṛś,saṃspṛśya,saṃspṛś,Co,Conjunction
+605,salila,salilam,salila,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+606,śuci,śuci,śuci,SANe,Case = Accusative; Gender = Neuter; Number = Singular
+607,udaka,udakena,udaka,SINe,Case = Instrumental; Gender = Neuter; Number = Singular
+608,eva,eva,eva,,Note: Probably indeclinable
+609,tad,tām,tad,SAF,Case = Accusative; Gender = Feminine; Number = Singular
+610,rātri,rātrim,rātri,SAF,Case = Accusative; Gender = Feminine; Number = Singular
+611,vas,ūṣuḥ,vas,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+612,tad,te,tad,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+613,duḥkha,duḥkha,duḥkha,Cp,Compound
+614,karśay,karśitāḥ,karśay,PNPaM,Case = Nominative; Gender = Masculine; Number = Plural; VerbForm = Part
+615,anugam,anujagmuḥ,anugam,PPs3In,Mood = Indicative; Number = Plural; Person = 3; Tense = Past
+616,ca,ca,ca,,Note: Probably indeclinable
+617,tatra,tatra,tatra,,Note: Probably indeclinable
+618,etad,etān,etad,PAM,Case = Accusative; Gender = Masculine; Number = Plural
+619,sneha,snehāt,sneha,SBM,Case = Ablative; Gender = Masculine; Number = Singular
+620,kaścit,ke,kaścit,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+621,cit,cid,cit, ,Note: Probably indeclinable
+622,dvijāti,dvijātayaḥ,dvijāti,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+623,sa,sa,sa,,Note: Probably indeclinable
+624,agni,agnayaḥ,agni,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+625,an,an,an,,Note: Probably indeclinable
+626,agni,agnayaḥ,agni,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+627,ca,ca,ca,,Note: Probably indeclinable
+628,eva,eva,eva,,Note: Probably indeclinable
+629,sa,sa,sa,,Note: Probably indeclinable
+630,śiṣya,śiṣya,śiṣya,Cp,Compound
+631,gaṇa,gaṇa,gaṇa,Cp,Compound
+632,bāndhava,bāndhavāḥ,bāndhava,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+633,tad,sa,tad,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+634,tad,taiḥ,tad,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+635,parivṛ,parivṛtaḥ,parivṛ,SNPaM,Case = Nominative; Gender = Masculine; Number = Singular; VerbForm = Part
+636,rājan,rājā,rājan,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+637,śubh,śuśubhe,śubh,SPs3In,Mood = Indicative; Number = Singular; Person = 3; Tense = Past
+638,brahman,brahma,brahman,Cp,Compound
+639,vādin,vādibhiḥ,vādin,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+640,tad,teṣām,tad,PGM,Case = Genitive; Gender = Masculine; Number = Plural
+641,prāduṣkṛ,prāduṣkṛta,prāduṣkṛ,PaCp,Compound; VerbForm = Part
+642,agni,agnīnām,agni,PGM,Case = Genitive; Gender = Masculine; Number = Plural
+643,muhūrta,muhūrte,muhūrta,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+644,ramya,ramya,ramya,Cp,Compound
+645,dāruṇa,dāruṇe,dāruṇa,SLNe,Case = Locative; Gender = Neuter; Number = Singular
+646,brahmaghoṣa,brahmaghoṣa,brahmaghoṣa,Cp,Compound
+647,puraskāra,puraskāraḥ,puraskāra,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+648,saṃjalpa,saṃjalpaḥ,saṃjalpa,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+649,saṃjan,samajāyata,saṃjan,S3ImIn,Mood = Imperative; Mood = Indicative; Number = Singular; Person = 3
+650,rājan,rājānam,rājan,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+651,tu,tu,tu,,Note: Probably indeclinable
+652,kuru,kuru,kuru,Cp,Compound
+653,śreṣṭha,śreṣṭham,śreṣṭha,SAM,Case = Accusative; Gender = Masculine; Number = Singular
+654,tad,te,tad,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+655,haṃsa,haṃsa,haṃsa,Cp,Compound
+656,madhura,madhura,madhura,Cp,Compound
+657,svara,svarāḥ,svara,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+658,āśvāsay,āśvāsayantaḥ,āśvāsay,PNPaPrM,Case = Nominative; Gender = Masculine; Number = Plural; Tense = Present; VerbForm = Part
+659,vipra,vipra,vipra,Cp,Compound
+660,agrya,agryāḥ,agrya,PNM,Case = Nominative; Gender = Masculine; Number = Plural
+661,kṣapā,kṣapām,kṣapā,SAF,Case = Accusative; Gender = Feminine; Number = Singular
+662,sarva,sarvām,sarva,SAF,Case = Accusative; Gender = Feminine; Number = Singular
+663,vinoday,vyanodayan,vinoday,P3ImIn,Mood = Imperative; Mood = Indicative; Number = Plural; Person = 3
+664,rājan,rājā,rājan,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+665,tu,tu,tu,,Note: Probably indeclinable
+666,bhrātṛ,bhrātṛbhiḥ,bhrātṛ,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+667,sārdham,sārdham,sārdham,,Note: Probably indeclinable
+668,tathā,tathā,tathā,,Note: Probably indeclinable
+669,sarva,sarvaiḥ,sarva,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+670,suhṛd,suhṛd,suhṛd,Cp,Compound
+671,gaṇa,gaṇaiḥ,gaṇa,PIM,Case = Instrumental; Gender = Masculine; Number = Plural
+672,śī,aśeta,aś,S3ImIn,Mood = Imperative; Mood = Indicative; Number = Singular; Person = 3
+673,tad,tām,tad,SAF,Case = Accusative; Gender = Feminine; Number = Singular
+674,niśā,niśām,niśā,SAF,Case = Accusative; Gender = Feminine; Number = Singular
+675,rājan,rājā,rājan,SNM,Case = Nominative; Gender = Masculine; Number = Singular
+676,duḥkha,duḥkha,duḥkha,Cp,Compound
+677,śoka,śoka,śoka,Cp,Compound
+678,samāhan,samāhataḥ,samāhan,SNPaM,Case = Nominative; Gender = Masculine; Number = Singular; VerbForm = Part
